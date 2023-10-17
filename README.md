@@ -34,6 +34,6 @@
 
 ## 📞 Contact
 #### &emsp; 🔹 E-mail 👉 joowop@naver.com 
-#### &emsp; 🔹 Blog 👉 [Link](https://www.notion.so/b01674fd36964d73bc0999e955cd75be?pvs=4) 
+#### &emsp; 🔹 Blog 👉 [Link](https://sordid-marimba-02a.notion.site/b01674fd36964d73bc0999e955cd75be?pvs=4) 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
