@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20Jung%20min's%20Github%20&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3481FE&height=250&width=400&section=header&text=Welcome%20to%20Ju%20Wan's%20Github%20&fontSize=50&fontColor=FFFFFF)
 
 <div align="center">
  
 ## 👋 Introduction
 
-#### Hi, I'm jung min Lim!
+#### Hi, I'm Ju Wan Seo!
 #### I'm looking for a job as an AI Engineer!
 
 #### 🔹 Personal Blog 👉 [Link](https://www.notion.so/b01674fd36964d73bc0999e955cd75be?pvs=4)   
