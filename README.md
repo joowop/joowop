@@ -7,7 +7,7 @@
 #### Hi, I'm Ju Wan Seo!
 #### I'm looking for a job as an AI Engineer!
 
-#### 🔹 Personal Blog 👉 [Link](https://www.notion.so/b01674fd36964d73bc0999e955cd75be?pvs=4)   
+#### 🔹 Personal Blog 👉 [Link](https://sordid-marimba-02a.notion.site/b01674fd36964d73bc0999e955cd75be?pvs=4)   
 <br>
 
 ## 🛠 Tech Stack
